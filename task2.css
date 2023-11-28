@@ -241,12 +241,14 @@ li a:hover {
 		border-image: linear-gradient(180deg, #000,#7193BF) 1;
 }
 
-
+.servicelinkspadding
+{
+	padding-left:15px;
+}
 
 .servicedivisionlink 
 {
 	margin-left: 15px;
-	padding-left:15px;
 	border-top: 1px solid grey;
 	border-bottom: 1px solid  grey;
 	margin-top: 20px;
