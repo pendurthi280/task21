@@ -306,8 +306,8 @@ li a:hover {
 
 .childdiv {
 	margin-left: 20px;
-	border: 1px solid;
-	border-image: linear-gradient( to bottom, #115B73,black);
+	border: 1px solid #115B73;
+	background-image: linear-gradient( to bottom, #115B73,black);
 	border-radius: 5px;
 	width: 255px;
 	margin-top: 15px;
