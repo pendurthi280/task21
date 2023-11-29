@@ -58,7 +58,7 @@ li a
 	text-decoration: none;
 	padding:15px;
 }
-li a:hover {
+li a:hover, li a.active {
 	background-color:rgb(48, 112, 158);
 	border-radius: 5px;
 	color: white;
